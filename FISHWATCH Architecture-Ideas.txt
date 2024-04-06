@@ -1,0 +1,11 @@
+At a high level,
+What are main technologies/software we need to focus for below requirements,
+1.	How to transfer data from fish watch locations. Definitely IOT devices but the requirement says the fish watch might not have mobile signals.
+2.	Are we providing cloud-based solution or on-premises applications?
+3.	How the data is presented to customer, a reporting tool or an application ?
+4.	Technical stock for Front end (i.e, for reporting tool or application), Database type (I think no sql database since we might be receiving data from camera)
+5.	What prediction model is best for this problem ?
+6.	What will be the cost effective solution ?
+7.	Any add-ons or alternative approach
+
+
