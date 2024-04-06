@@ -1,0 +1,12 @@
+Follow these guidelines to architect a reliable system on the cloud:
+
+Define application programming interfaces (APIs) to structure the coupling between components while creating an abstraction from implementation details.
+
+Deploy a service-oriented architecture to create a product from a collection of services, and deploy microservices architectures to create individual services.
+
+Determine whether operations are synchronous, asynchronous, or batch based on desired simplicity, responsiveness, coupling, reliability, and cost efficiency.
+
+Design how each service will scale horizontally and vertically to accommodate more traffic and data by leveraging additional computational resources.
+
+Leverage frameworks and platforms to more efficiently develop services across the organization while making it easier to adopt best practices.
+
